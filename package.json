@@ -1,0 +1,10 @@
+{
+	"scripts": {
+    "build": "rollup -c"
+	},
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@virtualstate/navigation": "^1.0.1-alpha.200",
+    "rollup": "^4.13.0"
+  }
+}
